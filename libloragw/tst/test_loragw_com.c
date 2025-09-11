@@ -188,7 +188,7 @@ int main(int argc, char ** argv)
          *
          * ***********************************************/
 
-        size = rand() % max_buff_size;
+        size = (rand() % (max_buff_size - 1)) + 1;
         for (i = 0; i < size; ++i) {
             test_buff[i] = rand() & 0xFF;
         }
