@@ -1,14 +1,14 @@
 # LoRaWan gate way hal SX1303
 ### dự án được import từ sx1302_hal của Lora-net
 
-```markdown
+
 / _____)             _              | |
 	( (____  _____ ____ _| |_ _____  ____| |__
 	 \____ \| ___ |    (_   _) ___ |/ ___)  _ \
 	 _____) ) ____| | | || |_| ____( (___| | | |
 	(______/|_____)_|_|_| \__)_____)\____)_| |_|
 	  (C)2020 Semtech
-```
+
 
 ```markdown
 # Dự án SX1302 LoRa Gateway
@@ -29,9 +29,7 @@ Các chương trình này được đưa vào dự án để cung cấp ví dụ
 
 Bộ chuyển tiếp gói là một chương trình chạy trên máy chủ của gateway LoRa, có nhiệm vụ chuyển tiếp các gói RF nhận được từ bộ tập trung đến máy chủ qua đường liên kết IP/UDP và phát ra các gói RF do máy chủ gửi xuống.
 
-```
 
-```
 
 **Đường lên (Uplink):** Các gói vô tuyến được gateway nhận, cùng với siêu dữ liệu (metadata) do gateway thêm vào, được chuyển tiếp đến máy chủ. Có thể bao gồm cả trạng thái của gateway.
 
