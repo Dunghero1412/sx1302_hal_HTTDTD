@@ -101,6 +101,8 @@ Sau khi mọi thứ được thiết lập, có thể gọi lệnh sau:
 - Đặt biến môi trường `ARCH` thành `arm`.
 - Đặt biến môi trường `CROSS_COMPILE` thành tiền tố tương ứng với trình biên dịch cho nền tảng đích.
 
+```
+
 Ví dụ cho Raspberry Pi:
 
 ```bash
