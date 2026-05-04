@@ -1,4 +1,5 @@
-
+# LoRaWan gate way hal SX1303
+### dự án được import từ sx1302_hal của Lora-net
 
 ```markdown
 / _____)             _              | |
@@ -7,7 +8,9 @@
 	 _____) ) ____| | | || |_| ____( (___| | | |
 	(______/|_____)_|_|_| \__)_____)\____)_| |_|
 	  (C)2020 Semtech
+```
 
+```markdown
 # Dự án SX1302 LoRa Gateway
 
 ## 1. Thư viện lõi: libloragw
